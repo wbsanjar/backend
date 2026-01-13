@@ -1,17 +1,17 @@
 # backend
 
-## 🚀 Backend Developer Roadmap
+# 🚀 Backend Developer Roadmap
 
 A complete *roadmap* to become a Backend Developer, from basics to advanced concepts.
 This guide is beginner-friendly and suitable for students and self-learners.
 
-## 📌 What is Backend Development?
+# 📌 What is Backend Development?
 
 Backend development focuses on server-side logic, databases, APIs, and authentication.
 It powers everything that users don’t see but rely on.
 
-## 🧱 Roadmap Structure
-## 1️⃣ Programming Fundamentals
+# 🧱 Roadmap Structure
+# 1️⃣ Programming Fundamentals
 
 * Variables & Data Types
 
@@ -79,7 +79,7 @@ JPA / Hibernate
 
 * REST Framework
 
-## 4️⃣ Database Management
+# 4️⃣ Database Management
 * SQL Databases
 
 * MySQL
@@ -104,7 +104,7 @@ JPA / Hibernate
 
 * Normalization
 
-## 5️⃣ API Development
+# 5️⃣ API Development
 
 * RESTful APIs
 
@@ -116,7 +116,7 @@ JPA / Hibernate
 
 * API Versioning
 
-## 6️⃣ Authentication & Authorization
+# 6️⃣ Authentication & Authorization
 
 * Sessions & Cookies
 
@@ -126,7 +126,7 @@ JPA / Hibernate
 
 * Role-Based Access Control
 
-## 7️⃣ Version Control
+# 7️⃣ Version Control
 
 * Git Basics
 
@@ -136,7 +136,7 @@ JPA / Hibernate
 
 * Pull Requests
 
-## 8️⃣ Security Basics
+# 8️⃣ Security Basics
 
 * Password Hashing
 
@@ -148,7 +148,7 @@ JPA / Hibernate
 
 * Environment Variables
 
-## 9️⃣ Testing
+# 9️⃣ Testing
 
 * Unit Testing
 
@@ -158,7 +158,7 @@ JPA / Hibernate
 
 * Test Cases
 
-## 🔟 Deployment & DevOps Basics
+# 🔟 Deployment & DevOps Basics
 
 * Hosting (AWS / Render / Railway)
 
@@ -168,7 +168,7 @@ JPA / Hibernate
 
 * Environment Configuration
 
-## 🛠 Tools to Learn
+# 🛠 Tools to Learn
 
 * Git & GitHub
 
@@ -180,7 +180,7 @@ JPA / Hibernate
 
 * Linux Basics
 
-## 📂 Projects to Build
+# 📂 Projects to Build
 
 * User Authentication System
 
@@ -192,7 +192,7 @@ JPA / Hibernate
 
 * Payment Gateway Integration
 
-## 🎯 Final Goal
+# 🎯 Final Goal
 
 * By the end of this roadmap, you should be able to:
 
