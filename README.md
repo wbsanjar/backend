@@ -2,7 +2,7 @@
 
 ## 🚀 Backend Developer Roadmap
 
-A complete roadmap to become a Backend Developer, from basics to advanced concepts.
+A complete *roadmap* to become a Backend Developer, from basics to advanced concepts.
 This guide is beginner-friendly and suitable for students and self-learners.
 
 ## 📌 What is Backend Development?
@@ -13,53 +13,53 @@ It powers everything that users don’t see but rely on.
 ## 🧱 Roadmap Structure
 ## 1️⃣ Programming Fundamentals
 
-Variables & Data Types
+* Variables & Data Types
 
-Loops & Conditions
+* Loops & Conditions
 
-Functions
+* Functions
 
-Object-Oriented Programming (OOP)
+* Object-Oriented Programming (OOP)
 
-Error Handling
+* Error Handling
 
 # 📚 Suggested Languages:
 
-Java
+* Java
 
-Python
+* Python
 
-JavaScript (Node.js)
+* JavaScript (Node.js)
 
 # 2️⃣ Data Structures & Algorithms
 
-Arrays, Strings
+* Arrays, Strings
 
-Stack, Queue
+* Stack, Queue
 
-Linked List
+* Linked List
 
-Trees & Graphs
+* Trees & Graphs
 
-Searching & Sorting
+* Searching & Sorting
 
-Time & Space Complexity
+* Time & Space Complexity
 
 #🎯 Goal: Write efficient and optimized code
 
 ## 3️⃣ Backend Language & Framework
 
-Choose one main backend stack:
+* Choose one main backend stack:
 
 #🔹 Node.js
 
-Node.js Basics
+* Node.js Basics
 
-Express.js
+* Express.js
 
-Middleware
+* Middleware
 
-REST APIs
+* REST APIs
 
 #🔹 Java
 
@@ -73,133 +73,133 @@ JPA / Hibernate
 
 #🔹 Python
 
-Python Advanced
+* Python Advanced
 
-Flask / Django
+* Flask / Django
 
-REST Framework
+* REST Framework
 
 ## 4️⃣ Database Management
-SQL Databases
+* SQL Databases
 
-MySQL
+* MySQL
 
-PostgreSQL
+* PostgreSQL
 
-SQLite
+* SQLite
 
-NoSQL Databases
+* NoSQL Databases
 
-MongoDB
+* MongoDB
 
-Firebase
+* Firebase
 
-Concepts:
+* Concepts:
 
-CRUD Operations
+* CRUD Operations
 
-Joins
+* Joins
 
-Indexing
+* Indexing
 
-Normalization
+* Normalization
 
 ## 5️⃣ API Development
 
-RESTful APIs
+* RESTful APIs
 
-HTTP Methods (GET, POST, PUT, DELETE)
+* HTTP Methods (GET, POST, PUT, DELETE)
 
-Status Codes
+* Status Codes
 
-Request & Response
+* Request & Response
 
-API Versioning
+* API Versioning
 
 ## 6️⃣ Authentication & Authorization
 
-Sessions & Cookies
+* Sessions & Cookies
 
-JWT (JSON Web Token)
+* JWT (JSON Web Token)
 
-OAuth
+* OAuth
 
-Role-Based Access Control
+* Role-Based Access Control
 
 ## 7️⃣ Version Control
 
-Git Basics
+* Git Basics
 
-GitHub Workflow
+* GitHub Workflow
 
-Branching & Merging
+* Branching & Merging
 
-Pull Requests
+* Pull Requests
 
 ## 8️⃣ Security Basics
 
-Password Hashing
+* Password Hashing
 
-SQL Injection
+* SQL Injection
 
-XSS & CSRF
+* XSS & CSRF
 
-HTTPS
+* HTTPS
 
-Environment Variables
+* Environment Variables
 
 ## 9️⃣ Testing
 
-Unit Testing
+* Unit Testing
 
-Integration Testing
+* Integration Testing
 
-API Testing (Postman)
+* API Testing (Postman)
 
-Test Cases
+* Test Cases
 
 ## 🔟 Deployment & DevOps Basics
 
-Hosting (AWS / Render / Railway)
+* Hosting (AWS / Render / Railway)
 
-Docker Basics
+* Docker Basics
 
-CI/CD Concepts
+* CI/CD Concepts
 
-Environment Configuration
+* Environment Configuration
 
-🛠 Tools to Learn
+## 🛠 Tools to Learn
 
-Git & GitHub
+* Git & GitHub
 
-Postman
+* Postman
 
-VS Code
+* VS Code
 
-Docker
+* Docker
 
-Linux Basics
+* Linux Basics
 
-📂 Projects to Build
+## 📂 Projects to Build
 
-User Authentication System
+* User Authentication System
 
-Blog REST API
+* Blog REST API
 
-E-commerce Backend
+* E-commerce Backend
 
-Chat Application Backend
+* Chat Application Backend
 
-Payment Gateway Integration
+* Payment Gateway Integration
 
 ## 🎯 Final Goal
 
-By the end of this roadmap, you should be able to:
+* By the end of this roadmap, you should be able to:
 
-Build scalable backend systems
+* Build scalable backend systems
 
-Design secure APIs
+* Design secure APIs
 
-Work with databases efficiently
+* Work with databases efficiently
 
-Deploy applications to production
+* Deploy applications to production
